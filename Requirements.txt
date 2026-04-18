@@ -1,0 +1,37 @@
+Libraries to Install
+
+Backend Python packages:
+
+- fastapi
+- uvicorn[standard]
+- tensorflow-macos (macOS arm64)
+- tensorflow (non-macOS)
+- numpy
+- pillow
+- python-multipart
+
+Frontend JavaScript packages:
+
+- react
+- react-dom
+- vite
+- @vitejs/plugin-react
+
+Android Gradle libraries:
+
+- androidx.compose.ui:ui
+- androidx.compose.ui:ui-graphics
+- androidx.compose.ui:ui-tooling-preview
+- androidx.compose.material3:material3
+- androidx.activity:activity-compose
+- androidx.lifecycle:lifecycle-viewmodel-compose
+- androidx.core:core-ktx
+- androidx.lifecycle:lifecycle-runtime-ktx
+- androidx.appcompat:appcompat
+- org.tensorflow:tensorflow-lite
+- org.tensorflow:tensorflow-lite-support
+- org.tensorflow:tensorflow-lite-select-tf-ops
+- io.coil-kt:coil-compose
+- com.google.code.gson:gson
+- org.jetbrains.kotlinx:kotlinx-coroutines-android
+- org.jetbrains.kotlinx:kotlinx-coroutines-core
