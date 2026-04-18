@@ -3,3 +3,5 @@ data
 dataset
 .idea
 .vscode
+__pycache__
+frontend/node_modules
