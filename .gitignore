@@ -5,3 +5,4 @@ dataset
 .vscode
 __pycache__
 frontend/node_modules
+*.hprof
